@@ -14,9 +14,6 @@ export default function Navigation() {
           <Link to="/about" className="hover:text-blue-500 transition">
             About
           </Link>
-          <Link to="/dashboard" className="hover:text-blue-500 transition">
-            Dashboard
-          </Link>
         </div>
         
         <div className="flex gap-4 items-center">
